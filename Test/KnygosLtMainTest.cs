@@ -17,7 +17,7 @@ namespace KnygosLt.Test
                 .EnterSubscriptionEmail("aaa@aaa.lt")
                 .SelectBothSubsriptionCheckBoxes()
                 .ClickSubscriptionButton();
-                //.VerifySubsciption();
+                
         }
         [Test]
         public static void SearchFieldTest()

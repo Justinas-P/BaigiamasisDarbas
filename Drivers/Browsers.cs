@@ -9,10 +9,7 @@ namespace KnygosLt.Drivers
     enum Browsers
     {
         Chrome,
-        Firefox,
-        Egde,
-        IE,
-        Opera,
-        Safari
+        Firefox
+        
     }
 }
